@@ -1,0 +1,11 @@
+/home/joel-wanko/Projects/rust/emoji-logger/target/package/emoji-logger-0.1.1/target/debug/deps/librand_core-4f4f99170921c321.rmeta: /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/joel-wanko/Projects/rust/emoji-logger/target/package/emoji-logger-0.1.1/target/debug/deps/librand_core-4f4f99170921c321.rlib: /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/joel-wanko/Projects/rust/emoji-logger/target/package/emoji-logger-0.1.1/target/debug/deps/rand_core-4f4f99170921c321.d: /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs /home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs
+
+/home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/lib.rs:
+/home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/block.rs:
+/home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/impls.rs:
+/home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/le.rs:
+/home/joel-wanko/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.9.3/src/os.rs:
