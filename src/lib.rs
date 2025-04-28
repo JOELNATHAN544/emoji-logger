@@ -1,5 +1,6 @@
 use rand::seq::SliceRandom;
 use rand::thread_rng;
+use rand::prelude::IndexedRandom;
 
 const EMOJIS: &[&str] = &["🚀", "🔥", "✨", "💡", "🛠", "🎯", "📦", "🌟"];
 

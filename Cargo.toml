@@ -1,6 +1,6 @@
 [package]
 name = "emoji-logger"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Joel Wanko <wankojoelnathan@gmail.com>"]
 license = "MIT"
@@ -10,5 +10,6 @@ readme = "README.md" # Optional but recommended
 
 
 [dependencies]
-rand = "0.8"
+rand = "0.9.1"
+
 

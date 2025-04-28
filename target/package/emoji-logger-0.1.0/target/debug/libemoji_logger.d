@@ -1,0 +1,1 @@
+/home/joel-wanko/Projects/rust/emoji-logger/target/package/emoji-logger-0.1.0/target/debug/libemoji_logger.rlib: /home/joel-wanko/Projects/rust/emoji-logger/target/package/emoji-logger-0.1.0/src/lib.rs
