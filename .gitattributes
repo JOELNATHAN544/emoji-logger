@@ -1,2 +1,4 @@
 *akefile* linguist-documentation
 *.mk linguist-documentation
+-e *akefile* linguist-documentation
+*.mk linguist-documentation
